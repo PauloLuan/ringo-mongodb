@@ -11,17 +11,17 @@ install [ringoJS](https://github.com/ringo/ringojs/), then run:
 	
 Clone the repository: 
 
-	git clone https://github.com/PauloLuan/ringo-mongodb.git
-	cd ringo-mongodb
+	you@prompt:~$ git clone https://github.com/PauloLuan/ringo-mongodb.git
+	you@prompt:~$ cd ringo-mongodb
 
-run [mongodb](www.mongodb.org/‎):
+run [mongodb](http://www.mongodb.org/‎):
 
-	mongod
-	mongo
+	you@prompt:~$ mongod
+	you@prompt:~$ mongo
 
 run ringo into the folder: 
 	
-	ringo
+	you@prompt:~$ ringo
 
 Now, just start using the functions! for example:
 	
